@@ -24,23 +24,25 @@ body {
   background-color: #1f2937;
 }
 h2 {
-  font-size: 48px;
+  font-size: 24px;
   color: #f9faf8;
   font-weight: 900;
 }
 .Logo {
-  font-size: 24px;
+  font-size: 12px;
   color: #f9faf8;
   font-weight: bold;
 }
 .nav {
-  font-size: 18px;
+  font-size: 12px;
   color: #e5e7eb;
 }
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+  gap: 264px;
+  margin-top: 6px;
 }
 a {
   color: white;
@@ -56,20 +58,20 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 250px;
-  gap: 20px;
+  height: 200px;
+  gap: 30px;
 }
 .container {
   width: 350px;
   height: 200px;
 }
 .main img {
-  width: 400px;
-  height: 200px;
+  width: 282px;
+  height: 134px;
 }
 .main2 {
   display: flex;
-  height: 140px;
+  height: 145px;
   align-items: flex-start;
   justify-content: center;
   gap: 40px;
@@ -100,9 +102,9 @@ h3 {
   display: flex;
   flex-direction: column;
   font-weight: lighter;
-  height: 240px;
+  height: 260px;
   background-color: #e5e7eb;
-  font-size: 26px;
+  font-size: 23px;
 
   font-style: italic;
   color: #1f2937;
@@ -110,11 +112,13 @@ h3 {
   align-items: center;
 }
 .main3 p {
-  width: 600px;
+  width: 474px;
 }
 .main3 h4 {
   margin-left: 350px;
   font-style: normal;
+  margin-right: 77px;
+  font-size: 16px;
 }
 .main4 {
   display: flex;
@@ -130,7 +134,7 @@ h3 {
   background-color: rgb(30, 30, 81);
   color: white;
   padding: 10px;
-  height: 20px;
+  height: 23px;
   display: flex;
   justify-content: center;
 }
@@ -192,10 +196,10 @@ body {
   justify-content: flex-end;
 }
 .container2 p {
-  width: 300px;
+  width: 283px;
 }
 .container2 h2 {
-  width: 350px;
+  width: 262px;
 }
 .container2 button {
   border-style: solid;
@@ -204,6 +208,7 @@ body {
   color: white;
   background-color: #3882f6;
   font-weight: bold;
+  font-size: 9px;
 }
 .container > h3 {
   font-weight: 900;
